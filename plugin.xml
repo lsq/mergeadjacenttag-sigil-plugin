@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+    <name>MergeAdjacentTags</name>
+    <type>edit</type>
+    <author>lsq</author>
+    <version>0.1.0</version>
+    <description>Merge adjacent span/div etc. with identical attributes.</description>
+    <engine>python3.4</engine>
+    <autostart>false</autostart>
+    <autoclose>false</autoclose>
+    <oslist>osx,unx,win</oslist>
+</plugin>
